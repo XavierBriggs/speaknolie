@@ -42,3 +42,6 @@ Thumbs.db
 *.h5
 *.pkl
 *.joblib
+
+# Processing artifacts
+all_transcripts_large_errors.csv
