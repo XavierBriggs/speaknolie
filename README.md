@@ -2,7 +2,13 @@
 
 Detecting AI-generated speech by analyzing *what was said*, not how it sounded. We convert audio to text with Whisper, then use NLP models to distinguish real human speech from deepfake-generated content.
 
-**Team:** Xavier Briggs, Jasmine Kamara, Aadhitya Raam Ashok, Sabrina Naseri (AI4ALL Group 11E)
+**Team:** Aadhitya Raam Ashok, Xavier Briggs, Sabrina Naseri (AI4ALL Group 11E)
+
+---
+
+## Project Poster
+
+![SpeakNoLie Poster](visualizations/poster.png)
 
 ---
 
